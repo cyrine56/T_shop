@@ -1,0 +1,19 @@
+.container{ display:contents ;}
+#unev{height: 40%;display: flex;margin-top: 0%;margin-bottom: 0%; border-bottom:solid rgba(0, 0, 0, 0.097) 2px;initial: letter align 1px;}
+#deuxv{margin-bottom: 0%;}
+#troisv{display: flex;background-color: #ffffff;}
+#one{justify-items: end;border: spacing 0;margin-top: 2%;margin-left: 3%;width: 50%;}
+#two{width: 50%;margin-top: 0%;}
+#bodv{margin: 0%; background-repeat: no-repeat;background-attachment: fixed;}
+#logov{width: 130;margin-left: 3%;height: 50px;margin-right: 20%;font-size: 25px;}
+#barre-haute{margin-top: 8px;margin-left: 600px;padding-inline: 5px;font-size: 25px;margin-right: 2px;display: flex;}
+input{ padding:10px 40px; background:#ffffffbd; width:500px; border-radius:25px;border: none;margin-bottom: 2%; font-size: px;border:solid rgba(47, 41, 41, 0.423);}
+#inder1-1{display: contents;}
+#bt-start{ width: 200px;background-color: #ff6f00;color: white;font-size: 20px;}
+select{padding:10px 40px; background:#ffffffbd; width:500px; border-radius:25px;border: none;margin-bottom: 2%;font-size: 15px;color: gray;border:solid rgba(47, 41, 41, 0.423);}
+#back{margin-top: 10%;width: 800px;}
+p{font-size: medium;}
+#vv{margin-top:13px ;font-weight: normal;font-size:20px;margin-bottom: 2px;}
+#cnx{text-decoration: none;color:#6e41bf;font-size: 20px;margin-bottom: 2px;padding:10px 20px}
+#crv{margin-left: 40%;color: #6e41bf;font-size:x-large;margin-top: 2%;}
+#phrasev {font-size:medium;margin-left: 37%;color: #044349;}

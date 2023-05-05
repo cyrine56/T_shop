@@ -1,0 +1,15 @@
+.container{ display:contents ;}
+#uneh{background-color:white; height: 50%;display: flex;}
+#deuxh{background-color:white;display:flex;justify-items: end;border: spacing 0;}
+#bodh{background-color: #ffffff;margin: 0%;}
+#logoh{width: 200px;margin-left: 20px; height: 50px;margin-top: 1%; }
+#s1{display: flex;}
+#chercher{height: 30px;width: 100px;margin-top: 20px;background-color:#273548e7;color:aliceblue; }
+#select{margin-top: 20px; width: 110px;height: 30px;background-color:#273548e7;color:aliceblue;}
+#ach-vend-livh{margin-top: 30px;margin-left: 400px;padding-inline: 10px;font-size: 25px;}
+#aa{text-decoration: none;color: #28407E;font-size: large;font-weight: bold;margin-right: 50px;}
+#login-imgh{width: 130px;height: 68px;margin-top: 5px;height: 80px;margin-left: 250px;}
+#backgh{margin-left: 80px;width: 750px;margin-top:30px;}
+#troish{background-color: #ff662a43;}
+#texth{margin-left: 10%;color: #273548e7;font-size: large;-ms-line-break: auto;}
+#hh{margin-left:10% ;font-size:80px;color: #FF672A;}

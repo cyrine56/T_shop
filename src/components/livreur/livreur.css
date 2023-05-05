@@ -1,0 +1,41 @@
+
+.container{ display:contents ;}
+#unel{height: 40%;display: flex;margin-top: 0%;margin-bottom: 0%; border-bottom:solid rgba(0, 0, 0, 0.097) 2px;initial: letter align 1px;}
+#deuxl{margin-bottom: 0%;margin-top: 0%;padding: 0px;}
+#troisl{display: flex;background-color: #ffffff;}
+#onel{justify-items: end;border: spacing 0;margin-top: 2%;margin-left: 3%;width: 50%;}
+#twol{width: 50%;margin-top: 0%;}
+body{margin: 0%; background-repeat: no-repeat;background-attachment: fixed;}
+#logol{width: 130;margin-left: 3%;height: 50px;margin-right: 20%;font-size: 25px;}
+#barre-hautel{margin-top: 8px;margin-left: 600px;padding-inline: 5px;font-size: 25px;margin-right: 2px;display: flex;}
+#cnxl{text-decoration: none;color:#00abaa;font-size: 20px;padding:10px 20px}
+#inder1-1l{display: contents;width: 50%;margin-top: 0%;}
+#bt-startl{ width: 200px;background-color: #ff6f00;color: white;font-size: 15px;height: 45px;margin-left: 110px;}
+select{padding:10px 40px; background:#ffffffbd; width:500px; border-radius:25px;margin-bottom: 2%;font-size: 15px;color: gray;border:solid 1px gray;}
+#backl{margin-top: 0%;width: 650px;}
+p{font-size: medium;}
+#cmtl{margin-top:13px ;font-weight: normal;font-size:15px;}
+H2{margin-left: 40%;color: #105f66;}
+#phrasel {font-size: large;margin-left: 36%;color: #044349;}
+
+input:invalid{ 
+    border:1px solid red;
+}
+input:invalid{
+    border:1px solid gray;
+}
+input{
+    outline: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
